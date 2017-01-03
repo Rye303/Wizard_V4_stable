@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Wizard</string>
+    <string name="title_activity_location_pub">LocationPub</string>
+    <string name="mainscreen_text">Good envening traveller!</string>
+    <string name="mainscreen_button">Begin the Adventure</string>
+    <string name="Pub_WelcomeText">\'Ye Olde Tavern</string>
+    <string name="Pub_ButtonStables">Stables</string>
+    <string name="Pub_ButtonBridge">Bridge</string>
+    <string name="Stables_ButtonPub">Pub</string>
+    <string name="Stables_WelcomeText">Welcome to ye Olde Stables, My name is Trodden Underfoot; what can I do for ye?</string>
+    <string name="Bridge_WelcomeText">Hope there are no trolls around here!</string>
+    <string name="Bridge_ButtonBoat">Boat</string>
+    <string name="Bridge_ButtonTower">Scary Tower</string>
+    <string name="Bridge_ButtonPub">Ye Olde Pub</string>
+    <string name="Boat_WelcomeText">Let\'s get out before this thing sinks!</string>
+    <string name="Boat_ButtonBridge">Bridge</string>
+    <string name="Tower_WelcomeText">*Spooky wizard sounds*</string>
+    <string name="Tower_ButtonBridge">Bridge</string>
+    <string name="Tower_ButtonDungeon">Dungeon</string>
+    <string name="Dungeon_WelcomeText">A dead man screams at you</string>
+    <string name="Pub_PlayerStats">player stats</string>
+</resources>
